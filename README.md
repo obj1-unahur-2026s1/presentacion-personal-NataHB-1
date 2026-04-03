@@ -4,10 +4,12 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Nataly Hollmann
+- Vivo en Morón 
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Este no es mi primer contacto con github
+- Tuve la oportunidad de mudarme sola hace unos meses
+- Empece a trabajar como programadora hace unos meses y disfruto un montón el poder aprender todos los días de mis compañeros
+- Descubrí mi pasión en la programación cuando empece a trabajar y descubrí que siempre voy a poder seguir aprendiendo cosas nuevas y mejorandos
